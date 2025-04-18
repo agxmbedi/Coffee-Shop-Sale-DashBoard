@@ -16,22 +16,30 @@ The primary goal of this project is to help the coffee shop improve its business
 - How do sales vary by **product category and type**?
 
 ---
+## 📊 DataSet 
+
+🔗 [Download DataSet File](https://mavenanalytics.io/data-playground?page=6&pageSize=5)
+
+
+ 
+
+---
 ## 📌 Key Findings
 
 - ☕ **Coffee** is the top-selling category, accounting for **39%** of total sales, followed by **Tea (28%)** and **Bakery items (12%)**.
 - 🕖 **Peak sales hours** are between **8 AM to 11 AM**, highlighting morning demand.
 - 📍 All three store locations—**Astoria**, **Hell's Kitchen**, and **Lower Manhattan**—show balanced performance, each contributing over **$2.3L+ in revenue**.
-- 🧾 **Total Sales**: ₹6,98,812.33  
+- 🧾 **Total Sales**: $6,98,812.33  
   **Footfall**: 1,49,116  
-  **Avg Bill Value**: ₹4.69  
-  **Avg Order Value**: ₹1.44
+  **Avg Bill Value**: $4.69  
+  **Avg Order Value**: $1.44
 - 🏆 **Top Products** by revenue include:
-  - Barista Espresso – ₹91,406.20
-  - Brewed Chai Tea – ₹77,081.95
-  - Gourmet Brewed Coffee – ₹70,034.60
-  - Hot Chocolate – ₹72,416.00
+  - Barista Espresso – $91,406.20
+  - Brewed Chai Tea – $77,081.95
+  - Gourmet Brewed Coffee – $70,034.60
+  - Hot Chocolate – $72,416.00
 - 📅 **Friday** saw the highest number of orders, followed closely by **Thursday** and **Monday**.
-- 🛍️ Majority of order sizes fall under **Regular (31%)**, **Large (30%)**, and **Not Defined (30%)**.
+- 🛍️ Majority of order sizes fall under **Regular (31%)** and **Large (30%)**
 
 ---
 
